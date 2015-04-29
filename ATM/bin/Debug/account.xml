@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Information>
+  <Account_ID id="6">
+    <Account>
+      <Account_Number>36</Account_Number>
+      <Password>123456</Password>
+      <Balance>500</Balance>
+    </Account>
+  </Account_ID>
+  <Account_ID id="1">
+    <Account>
+      <Account_Number>123</Account_Number>
+      <Password>123456</Password>
+      <Balance>800</Balance>
+    </Account>
+  </Account_ID>
+</Information>
